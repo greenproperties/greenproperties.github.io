@@ -114,11 +114,11 @@ tr, th, td {
 
 .selection {
   background: #0d6856;
-  height: 44px;
-  margin-left: 714px;
+  margin-left: -23px;
   margin-right: 0px;
-  margin-top:-44px;
+  margin-top:-31px;
   position: absolute;
+  height: 44px;
   width: 148px;
   z-index: -1;
 }
