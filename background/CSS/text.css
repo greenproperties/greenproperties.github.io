@@ -1,0 +1,87 @@
+
+.text-wrap  {
+    position: relative;
+}
+
+.text  {
+    margin-top: 0px;
+    padding-top: 65px;
+    position: relative;
+    width: 900px;
+    margin: 0 auto;
+    z-index: 100;
+    margin-bottom: 75px;
+}
+
+.text h3{
+    text-align: left;
+    font-size: 3em;
+    font-weight: 800;
+    letter-spacing: 1px;
+    color: #0d6856;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.text h2{
+    text-align: left;
+    font-size: 2em;
+    font-weight: 800;
+    letter-spacing: 1px;
+    color: #0d6856;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.text ul{
+    text-align: left;
+    font-size: 1em;
+    font-weight: 200;
+    color: #0d6856;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.text li{
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+.text p{
+    text-align: left;
+    font-size: 1em;
+    line-height: 133%;
+    font-weight: 200;
+    color: #0d6856;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.text img {
+    position: absolute;
+    left: -18px;
+    z-index: 4;
+    margin-top: -30px;
+}
+
+.sidebar h3{
+    font-size: 1em;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-weight: 100;
+    letter-spacing: 1px;
+}
+
+.sidebar h2{
+    font-size: 1em;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    font-weight: 100;
+    letter-spacing: 1px;
+}
+
+.sidebar p{
+    font-size: 1em;
+    margin-top: 0px;
+    margin-top: 3px;
+}

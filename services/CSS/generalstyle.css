@@ -1,0 +1,135 @@
+html, body {
+    background: #fff;
+    font-family: 'HelveticaNeue', 'Arial', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    width: 100%;
+    min-width: 1220px;
+} 
+
+table {
+    border-collapse: collapse;
+}
+
+tr, th, td {
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.sidebar {
+    padding-top: 0px;
+    position: relative;
+    background: #fff;
+    color: #fff;
+    width: 240px;
+    height: 100%;
+}
+
+.sidebar-content {
+    position: fixed;
+    background: #0d6856;
+    width: 240px;
+    margin: 0 auto;
+    height: 100%;
+}
+
+.sidebar-accent {
+  background: #fff;
+  opacity: 0.07;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 45px;
+  height: 240px;
+  width: 240px;    
+  position: absolute;
+  z-index: 2;
+}
+
+.sidebar-accent:before {
+  border-bottom: 15px solid #fff;
+  border-left: 15px solid transparent;
+  border-right: 15px solid transparent;
+  content: "";
+  left: 105px;
+  top: -14px;
+  position: absolute;
+  z-index: 2;
+}
+
+
+.main {
+    background: #fff;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    color: #262626;
+}
+
+.header {   
+    position: relative;
+    padding-top: 10px;
+    letter-spacing: 0.01em;
+    background: #fff;
+}
+
+#navigation {
+ margin-top: 0px;
+ padding: 0 0em;
+ height: 2em;
+ list-style: none;
+ text-align: center;
+ position: relative;
+ width: 980px;
+ margin: 0 auto;
+ z-index: 100;
+}
+
+#navigation strong {
+ color: white;
+}
+
+#navigation > li {
+ float: center;
+ display: inline-block;
+ height: 100%;
+ margin-right: 0em;
+ padding: 0 1.23em;
+}
+
+#navigation > li > a {
+ height: 100%;
+ color: #0d6856;
+ text-decoration: none;
+ font-weight: 400;
+ text-transform: uppercase;
+}
+
+#navigation > li > a:hover {
+ color: #262626;
+ text-decoration: none;
+}
+
+.selection {
+  background: #0d6856;
+  height: 44px;
+  margin-left: 91px;
+  margin-right: 0px;
+  margin-top:-44px;
+  position: absolute;
+  width: 127px;
+  z-index: -1;
+}
+.selection:before {
+  border-top: 15px solid #0d6856;
+  border-left: 15px solid transparent;
+  border-right: 15px solid transparent;
+  content: "";
+  left: 50px;
+  position: absolute;
+  top: 44px;
+  z-index: -1;
+}
+   

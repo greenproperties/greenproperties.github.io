@@ -1,0 +1,176 @@
+
+.text-wrap  {
+    position: relative;
+}
+
+/**********************/
+
+@media only screen 
+and (max-width : 1300px) {
+.text  {
+    margin-top: 0px;
+    padding-top: 1%;
+    margin-left: 39%;
+    position: relative;
+    width: 580px;
+    z-index: 100;
+}  
+.text h3{
+    text-align: left;
+    font-size: 2.6em;
+    font-weight: 800;
+    letter-spacing: 1px;
+    color: #0d6856;
+    margin-top: 20px;
+    margin-bottom: 35px;
+}
+
+.text h2{
+    text-align: left;
+    font-size: 1.6em;
+    font-weight: 800;
+    letter-spacing: 1px;
+    color: #0d6856;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.text p{
+    text-align: left;
+    font-size: 0.95em;
+    font-weight: 200;
+    color: #0d6856;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.text img {
+    position: absolute;
+    left: -18px;
+    z-index: 4;
+    margin-top: -25px;
+    clip: rect(0px,570px,40px,0px);
+}    
+}
+
+/**********************/
+
+@media only screen 
+and (min-width : 1301px) {
+.text  {
+    margin-top: 0px;
+    padding-top: 2%;
+    margin-left: 38.5%;
+    position: relative;
+    width: 620px;
+    z-index: 100;
+}
+.text h3{
+    text-align: left;
+    font-size: 3em;
+    font-weight: 800;
+    letter-spacing: 1px;
+    color: #0d6856;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.text h2{
+    text-align: left;
+    font-size: 1.8em;
+    font-weight: 800;
+    letter-spacing: 1px;
+    color: #0d6856;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.text p{
+    text-align: left;
+    font-size: 1.05em;
+    font-weight: 200;
+    color: #0d6856;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.text img {
+    position: absolute;
+    left: -18px;
+    z-index: 4;
+    margin-top: -30px;
+}         
+}
+
+/**********************/
+
+@media only screen 
+and (min-width : 1625px) {
+.text  {
+    margin-top: 0px;
+    padding-top: 6%;
+    margin-left: 41%;
+    position: relative;
+    width: 620px;
+    z-index: 100;
+}
+.text h3{
+    text-align: left;
+    font-size: 3em;
+    font-weight: 800;
+    letter-spacing: 1px;
+    color: #0d6856;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.text h2{
+    text-align: left;
+    font-size: 1.8em;
+    font-weight: 800;
+    letter-spacing: 1px;
+    color: #0d6856;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.text p{
+    text-align: left;
+    font-size: 1.05em;
+    font-weight: 200;
+    color: #0d6856;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.text img {
+    position: absolute;
+    left: -18px;
+    z-index: 4;
+    margin-top: -30px;
+}         
+}
+
+/**********************/
+
+.sidebar h3{
+    font-size: 1em;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-weight: 100;
+    letter-spacing: 1px;
+}
+
+.sidebar h2{
+    font-size: 1em;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    font-weight: 100;
+    letter-spacing: 1px;
+}
+
+.sidebar p{
+    font-size: 1em;
+    margin-top: 0px;
+    margin-top: 3px;
+}
