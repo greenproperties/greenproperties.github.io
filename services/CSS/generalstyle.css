@@ -82,7 +82,7 @@ tr, th, td {
  list-style: none;
  text-align: center;
  position: relative;
- width: 990px;
+ width: 980px;
  margin: 0 auto;
  z-index: 100;
 }
@@ -96,7 +96,7 @@ tr, th, td {
  display: inline-block;
  height: 100%;
  margin-right: 0em;
- padding: 0 1.23em;
+ padding: 0 1.2em;
 }
 
 #navigation > li > a {
