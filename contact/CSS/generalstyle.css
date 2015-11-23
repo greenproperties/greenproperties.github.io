@@ -114,12 +114,12 @@ tr, th, td {
 
 .selection {
   background: #0d6856;
-  margin-left: -23px;
+  margin-left: -22px;
   margin-right: 0px;
   margin-top:-31px;
   position: absolute;
   height: 44px;
-  width: 122px;
+  width: 123px;
   z-index: -1;
 }
 .selection:before {
