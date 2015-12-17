@@ -12,7 +12,7 @@ and (max-width : 1300px) {
     padding-top: 1%;
     margin-left: 39%;
     position: relative;
-    width: 580px;
+    width: 550px;
     z-index: 100;
 }  
 .text h3{
@@ -36,7 +36,7 @@ and (max-width : 1300px) {
 }
 
 .text p{
-    text-align: left;
+    text-align: justify;
     font-size: 0.95em;
     font-weight: 200;
     color: #0d6856;
@@ -62,7 +62,7 @@ and (min-width : 1301px) {
     padding-top: 2%;
     margin-left: 38.5%;
     position: relative;
-    width: 620px;
+    width: 610px;
     z-index: 100;
 }
 .text h3{
@@ -86,7 +86,7 @@ and (min-width : 1301px) {
 }
 
 .text p{
-    text-align: left;
+    text-align: justify;
     font-size: 1.05em;
     font-weight: 200;
     color: #0d6856;
@@ -111,7 +111,7 @@ and (min-width : 1625px) {
     padding-top: 6%;
     margin-left: 41%;
     position: relative;
-    width: 620px;
+    width: 610px;
     z-index: 100;
 }
 .text h3{
@@ -135,7 +135,7 @@ and (min-width : 1625px) {
 }
 
 .text p{
-    text-align: left;
+    text-align: justify;
     font-size: 1.05em;
     font-weight: 200;
     color: #0d6856;
@@ -157,16 +157,16 @@ and (min-width : 1625px) {
     font-size: 1em;
     margin-top: 0px;
     margin-bottom: 0px;
-    font-weight: 100;
-    letter-spacing: 1px;
+    font-weight: 200;
+    letter-spacing: 0px;
 }
 
 .sidebar h2{
     font-size: 1em;
     margin-top: 50px;
     margin-bottom: 0px;
-    font-weight: 100;
-    letter-spacing: 1px;
+    font-weight: 200;
+    letter-spacing: 0px;
 }
 
 .sidebar p{

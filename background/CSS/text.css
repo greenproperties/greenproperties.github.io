@@ -48,13 +48,14 @@
 }
 
 .text p{
-    text-align: left;
+    text-align: justify;
     font-size: 1em;
-    line-height: 133%;
     font-weight: 200;
     color: #0d6856;
     margin-top: 0px;
     margin-bottom: 0px;
+    margin-right: 390px;
+    /** text-indent: 40px; **/
 }
 
 .text img {
@@ -68,16 +69,16 @@
     font-size: 1em;
     margin-top: 0px;
     margin-bottom: 0px;
-    font-weight: 100;
-    letter-spacing: 1px;
+    font-weight: 200;
+    letter-spacing: 0px;
 }
 
 .sidebar h2{
     font-size: 1em;
     margin-top: 50px;
     margin-bottom: 0px;
-    font-weight: 100;
-    letter-spacing: 1px;
+    font-weight: 200;
+    letter-spacing: 0px;
 }
 
 .sidebar p{
