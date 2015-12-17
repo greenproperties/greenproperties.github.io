@@ -38,7 +38,7 @@ and (max-width : 1300px) {
 .text p{
     text-align: justify;
     font-size: 0.95em;
-    font-weight: 200;
+    font-weight: 400;
     color: #0d6856;
     margin-top: 0px;
     margin-bottom: 0px;
@@ -88,7 +88,7 @@ and (min-width : 1301px) {
 .text p{
     text-align: justify;
     font-size: 1.05em;
-    font-weight: 200;
+    font-weight: 400;
     color: #0d6856;
     margin-top: 0px;
     margin-bottom: 0px;
@@ -137,7 +137,7 @@ and (min-width : 1625px) {
 .text p{
     text-align: justify;
     font-size: 1.05em;
-    font-weight: 200;
+    font-weight: 400;
     color: #0d6856;
     margin-top: 0px;
     margin-bottom: 0px;

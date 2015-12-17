@@ -36,7 +36,7 @@
 .text ul{
     text-align: left;
     font-size: 1em;
-    font-weight: 200;
+    font-weight: 400;
     color: #0d6856;
     margin-top: 30px;
     margin-bottom: 30px;
@@ -50,11 +50,11 @@
 .text p{
     text-align: justify;
     font-size: 1em;
-    font-weight: 200;
+    font-weight: 400;
     color: #0d6856;
     margin-top: 0px;
     margin-bottom: 0px;
-    margin-right: 390px;
+    margin-right: 370px;
     /** text-indent: 40px; **/
 }
 
