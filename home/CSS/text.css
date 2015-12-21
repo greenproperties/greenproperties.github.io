@@ -135,7 +135,7 @@ and (min-width : 1625px) {
 }
 
 .text p{
-    text-align: justify;
+    text-align: left;
     font-size: 1.05em;
     font-weight: 400;
     color: #0d6856;
